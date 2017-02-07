@@ -1,0 +1,12 @@
+.car-card {
+	border: 1px black solid;
+	background-color: lightblue;
+}
+
+.dynamic-class {
+	border: 4px black solid;
+	background-color: #FA8072;
+	color: white;
+	height: 15em;
+	padding-top: 2em;
+	}

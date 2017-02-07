@@ -1,0 +1,29 @@
+
+[
+
+		{
+			"maker": "Ford",
+			"model": "Explorer",
+			"year": "1993",
+			"price": "$2,999",
+			"description": "Ole Betsy. She'll get you from point A to point B!"
+		},
+
+		{
+			"maker": "Nissan",
+			"model": "Titan",
+			"year": "2008",
+			"price": "$10,999",
+			"description": "A very sturdy, aesthetic truck."
+		},
+
+		{
+			"maker": "Chevrolet",
+			"model": "Camaro",
+			"year": "2006",
+			"price": "$8,999",
+			"description": "Great car in American reboot of quality cars."
+		}
+
+
+	]
